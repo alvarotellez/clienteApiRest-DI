@@ -1,0 +1,1 @@
+C:\Users\atellez\Desktop\DI\Segundo-trimestre\19-ClienteApiRest\ejercicio2-binding-di\ejercicio2-binding-di.csproj;x86
